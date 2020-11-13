@@ -1,0 +1,15 @@
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\bin\Debug\OOP_SHARPP.exe.config
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\bin\Debug\OOP_SHARPP.exe
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\bin\Debug\OOP_SHARPP.pdb
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.csprojAssemblyReference.cache
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.Form1.resources
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.Properties.Resources.resources
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.csproj.GenerateResource.cache
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.exe
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.pdb
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.Help.resources
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\bin\Debug\SharpGL.dll
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\bin\Debug\SharpGL.WinForms.dll
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\bin\Debug\SharpGL.xml
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\bin\Debug\SharpGL.WinForms.xml
+C:\Users\uluxa\source\repos\OOP_SHARPP\OOP_SHARPP\obj\Debug\OOP_SHARPP.csproj.CopyComplete
